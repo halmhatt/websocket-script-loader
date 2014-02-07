@@ -1,0 +1,20 @@
+{
+  "name": "ws-script",
+  "version": "0.0.0",
+  "description": "Loads javascript dynamicly over websocket",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "~0.4.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "js",
+    "websocket"
+  ],
+  "author": "Jacob Carlsson",
+  "license": "MIT"
+}
