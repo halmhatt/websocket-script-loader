@@ -38,5 +38,5 @@ Look at your html and you will find the following:
 
 ```html
 <script data-script-url="js/jquery-1.11.0.min.js" type="text/javascript">jquery content...</script>
-<script data-script-url="js/alert.js" type="text/javascript">alert("Hello moto");</script>
+<script data-script-url="js/alert.js" type="text/javascript">alert("Well hello, websocket dynamic script loading worked!");</script>
 ```
